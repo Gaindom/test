@@ -1,7 +1,7 @@
 <template>
+    <p>This application interacts with smart contracts using Web3.</p>
   <div class="hello">
     <h1>Welcome to My Vue Web3 App!</h1>
-    <p>This application interacts with smart contracts using Web3.</p>
   </div>
 </template>
 
